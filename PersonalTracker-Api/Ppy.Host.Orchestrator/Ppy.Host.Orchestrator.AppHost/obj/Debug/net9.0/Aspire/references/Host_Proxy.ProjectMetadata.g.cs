@@ -15,7 +15,7 @@ public class Host_Proxy : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the Host_Proxy project.
     /// </summary>
-    public string ProjectPath => """C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\Host.Proxy.csproj""";
+    public string ProjectPath => """C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\Host.Proxy.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

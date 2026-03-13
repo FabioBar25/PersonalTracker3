@@ -17,5 +17,5 @@ public class Host_Orchestrator
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost""";
+    public static string ProjectPath => """C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost""";
 }
