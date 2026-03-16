@@ -4,3 +4,13 @@ C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Man
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.AssemblyInfo.cs
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.csproj.CoreCompileInputs.cache
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.sourcelink.json
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\bin\Debug\net9.0\Manager.deps.json
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\bin\Debug\net9.0\Manager.dll
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\bin\Debug\net9.0\Manager.pdb
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\bin\Debug\net9.0\Access.Common.dll
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\bin\Debug\net9.0\Access.Common.pdb
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.csproj.Up2Date
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.dll
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\refint\Manager.dll
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.pdb
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\ref\Manager.dll

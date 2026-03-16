@@ -5,3 +5,4 @@ C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Per
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest\obj\Debug\net9.0\Host.Orchest.csproj.CoreCompileInputs.cache
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest\obj\Debug\net9.0\Aspire\references\Host_Api.ProjectMetadata.g.cs
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest\obj\Debug\net9.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest\obj\Debug\net9.0\Host.Orchest.sourcelink.json
